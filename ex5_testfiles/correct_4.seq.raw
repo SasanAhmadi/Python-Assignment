@@ -1,0 +1,41 @@
+
+# SeqHeadStart
+# Additional: line
+# ID: 0
+# Date: 1
+# Additional line
+# Columns: info;base;quality
+# SeqHeadEnd
+tsH;A;0.045069827390500805
+msE;a;0.06640875146876257
+amE;t;0.2975187794543661
+mssE;A;0.6
+fE;T;0.56536
+fmE;T;0.5187794543661
+tASsd;C;0.746353
+hA;_;0.04740097463539672
+mssE;a;0.3056
+fE;t;0.6911288860821325
+fmE;t;0.6911288860821325
+tASsd;c;0.434573
+mssE;a;0.3056
+fE;T;0.6911288860821325
+fmE;t;0.6911288860821325
+tASsd;C;0.434573
+asE;t;0.9957126838923056
+mssE;a;0.92
+fE;T;0.05
+fmE;t;0.005
+tASsd;C;0.43
+hrs;G;0.6911288860821325
+# Annotation: 2 bases missing
+fmE;t;0.05
+tASsd;C;0.43
+am;A;0.9678570834494661
+aR;t;0.13226864238439728
+amt;g;0.030503720142378787
+srS;N;0.7479506202532099
+# Annotation: New seq start
+hAR;T;0.9832713188441309
+# Annotation: 5 bases missing
+# Data end

@@ -1,0 +1,34 @@
+
+# SeqHeadStart
+# ID: 0
+# Date: 1
+# Columns: info;base;quality
+# SeqHeadEnd
+tsH;A;1.0
+hA;_;0.4
+mssE;a;0.902
+fE;T;0.05
+fmE;t;0.05
+tASsd;C;0.43
+hA;_;0.04
+ear;t;0.10
+gerE;G;0.21
+heR;N;0.5195864408573572
+mssE;A;0.402
+heR;_;0.5195864408573572
+adfmE;T;0.15
+erdA;g;0.32
+tASsd;C;0.43
+
+ams;-;0.05202981200504242
+g;c;0.54
+# Data end
+mssE;a;0.904242
+fE;T;0.920
+fmE;t;0.359
+tASsd;C;0.7547
+mssE;A;0.402
+adfmE;T;0.15
+mssE;A;0.402
+adfmE;T;0.15
+erdA;g;0.32
