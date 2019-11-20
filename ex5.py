@@ -1,3 +1,10 @@
+"""
+Author -- Atieh yazdani
+Matr.Nr -- K11932911
+Exercize -- 5
+
+"""
+
 def generate_subsuence_record(row):
     result = ''
     if len(row) > 0:

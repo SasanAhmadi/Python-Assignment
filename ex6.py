@@ -1,3 +1,10 @@
+"""
+Author -- Atieh yazdani
+Matr.Nr -- K11932911
+Exercize -- 5
+
+"""
+
 import os
 from glob import glob
 
