@@ -1,7 +1,7 @@
 """
 Author -- Atieh yazdani
 Matr.Nr -- K11932911
-Exercise -- 8
+Exercise -- 7
 
 """
 
