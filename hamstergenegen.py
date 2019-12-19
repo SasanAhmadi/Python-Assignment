@@ -13,11 +13,11 @@ import argparse
 import itertools
 import numpy as np
 
-# parser = argparse.ArgumentParser()
-# parser.add_argument('dir', help='directory to place gene data in', type=str)
-# args = parser.parse_args()
+parser = argparse.ArgumentParser()
+parser.add_argument('dir', help='directory to place gene data in', type=str)
+args = parser.parse_args()
 
-output_dir =  "00" #args.dir
+output_dir = args.dir
 
 output_folder = os.path.basename(output_dir)
 output_dir_int = int(output_folder)
