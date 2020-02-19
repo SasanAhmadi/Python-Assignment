@@ -35,6 +35,13 @@ bld/
 .vscode/
 ex8_testfiles/
 ex9_test/
+ex10_output/
+ex10_testfiles/
+ex11_testfiles/
+ex12_testfiles/
+ex13_testfiles/
+plots/
+a3_template_output/
 testfolder1/
 testfolder2/
 fake_output.csv
