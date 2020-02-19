@@ -1,3 +1,10 @@
+"""
+Author -- Atieh yazdani
+Matr.Nr -- K11932911
+Exercise -- 11
+
+"""
+
 import numpy as np
 
 def __compute_next_state__(state):

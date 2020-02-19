@@ -1,25 +1,8 @@
 """
-Author -- Michael Widrich
-Contact -- widrich@ml.jku.at
-Date -- 01.10.2019
+Author -- Atieh yazdani
+Matr.Nr -- K11932911
+Exercise -- 13
 
-###############################################################################
-
-The following copyright statement applies to all code within this file.
-
-Copyright statement:
-This  material,  no  matter  whether  in  printed  or  electronic  form,
-may  be  used  for personal  and non-commercial educational use only.
-Any reproduction of this manuscript, no matter whether as a whole or in parts,
-no matter whether in printed or in electronic form, requires explicit prior
-acceptance of the authors.
-
-###############################################################################
-
-Template file for solution of assignment 3, exercise 12, 13, 14. Contains
-backbone for GameOfLife class and example usage of GameOfLife at the end of the
-file. Make sure you only changed the methods you are supposed to change in
-the file you hand in as your solution.
 """
 
 # Add your import statements here

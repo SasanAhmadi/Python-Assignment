@@ -1,3 +1,10 @@
+"""
+Author -- Atieh yazdani
+Matr.Nr -- K11932911
+Exercise -- 10
+
+"""
+
 import re
 import numpy as np
 
