@@ -26,7 +26,7 @@ class GameOfLife(object):
         with(open(outputfile,'w')):
             pass
 
-        os.makedirs(os.path.dirname(outputfile)+r'\plots', exist_ok=True)
+        os.makedirs(os.path.dirname(outputfile) + r'\plots', exist_ok=True)
 
         
     
